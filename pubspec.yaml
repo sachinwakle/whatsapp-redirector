@@ -1,7 +1,6 @@
 name: whatsapp_redirector
 description: A lite app to open WhatsApp chat via phone number.
-publish_to: 'none' 
-
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
